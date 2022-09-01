@@ -6,19 +6,19 @@
 
 嵌入過程
 
-<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/first_embedding.jpg" width = "400" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/first_embedding.jpg" width = "400" alt="first_embedding" align=center />
 <br>
 提取過程
 
-<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/first_abstract.jpg" width = "400" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/first_abstract.jpg" width = "400" alt="first_abstract" align=center />
 
 ## 基於AMBTC壓縮與LSB取代的適應型高藏量策略
 
 嵌入過程
 
-<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/second_embedding.jpg" width = "400" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/second_embedding.jpg" width = "400" alt="second_embedding" align=center />
 <br>
 
 提取過程
 
-<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/second_abstract.jpg" width = "200" alt="图片名称" align=center />
+<img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/second_abstract.jpg" width = "200" alt="second_abstract" align=center />
