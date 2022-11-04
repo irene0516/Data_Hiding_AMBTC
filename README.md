@@ -3,10 +3,11 @@
 * MATLAB
 
 
-##流程圖
+## 流程圖
 
 <img src="https://github.com/irene0516/Data_Hiding_AMBTC/blob/main/img_folder/flowchart.jpg" width = "400" alt="first_embedding" align=center />
 <br>
+
 ## 基於AMBTC壓縮之QVD動態藏量嵌入法
 
 嵌入過程
