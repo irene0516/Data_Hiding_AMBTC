@@ -1,7 +1,9 @@
 # 有關AMBTC相關的資訊隱藏研究
 本研究提出兩種有關AMBTC壓縮的資訊隱藏方法，主要使用的技術有:
 * MATLAB
-
+## 期刊
+International Journal of Network Security
+https://doi.org/10.6633/IJNS.202303_25(2).05 
 
 ## 流程圖
 
